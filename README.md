@@ -14,7 +14,7 @@
 
 ### 🚀 Live Demo
 
-[Try LinkTrust Now](https://Emilioochieng44.github.io/linktrust/)  
+https://github.com/emilioochieng/linktrust.git 
 
 ---
 
